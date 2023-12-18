@@ -32,7 +32,7 @@ f({}, null, 42); // "Hello World"
 Any arguments could be passed to the function but it should still always return "Hello World".
  
 
-`Constraints:`
+Constraints:
 `0 <= args.length <= 10`
 
 
