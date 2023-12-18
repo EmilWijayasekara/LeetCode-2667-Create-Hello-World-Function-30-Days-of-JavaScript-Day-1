@@ -1,6 +1,4 @@
-# LeetCode Practice  (Day 3)
-## Achievements
-[![Untitled-1.jpg](https://i.postimg.cc/G3XyMFp9/Untitled-1.jpg)](https://postimg.cc/jCJ22JPr)
+# LeetCode 30 Days of JavaScript
 
 ## About the problem
 - *Problem Number* : 13
